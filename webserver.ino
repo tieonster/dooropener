@@ -7,8 +7,8 @@
 #include <WiFi.h>
 #include <Stepper.h>
 // Replace with your network credentials
-const char* ssid     = "AOC";
-const char* password = "y3nxthc8mk62934451";
+const char* ssid     = "XXX";
+const char* password = "XXX;
  
 const int stepsPerRevolution = 32;  // change this to fit the number of steps per revolution
 const int GearedStepsPerRev = 32*32;  // change this to fit the number of steps per revolution
